@@ -1,20 +1,16 @@
 # SupportDocs: DataSource
 This is where SupportDocs gets its data!
 
-**Your data source JSON url is:** | <a id="datasource_url" href="https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json</a>
-| :-- | :-- |
-| In your SwiftUI app, use it like this: `options.urls.dataSource = URL(string: "https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json")!` |
-
 <table>
     <tr>
-        <td>
-        **Your data source JSON url is:**
-        </td>
-        <td>
-        <a id="datasource_url" href="https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json</a>
+        <td colspan="2">
+            <strong>Your data source JSON url is:</strong> <a id="datasource_url" href="https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json</a>
         </td>
     </tr>
 <tr>
+    <td>
+        How to use (SwiftUI)
+    </td>
 <td>
 
   ```Swift
@@ -37,6 +33,10 @@ This is where SupportDocs gets its data!
   }
   ```
 </td>
+<tr>
+    <td>
+        How to use (UIKit)
+    </td>
 <td>
 
  ```Swift
