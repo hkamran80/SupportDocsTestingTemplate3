@@ -24,8 +24,25 @@ This is where SupportDocs gets its data!
   <td>
      
   ```Swift
-  Swift Code
-  sdf
+  struct SwiftUIExampleView_MinimalCode: View {
+    
+      let options = SupportOptions(
+          urls: .init(
+              dataSource: URL(string: "https://raw.githubusercontent.com/hkamran80/SupportDocs/DataSource/_data/data.json")!
+          )
+      )
+    
+      @State var supportDocsPresented = false
+    
+      var body: some View {
+          VStack {
+              Button("Present SupportDocs from SwiftUI!") { supportDocsPresented = true }
+              .sheet(isPresented: $supportDocsPresented, content: {
+                  SupportDocsView(options: options, isPresented: $supportDocsPresented)
+              })
+          }
+      }
+  }
   ```
   </td>
   </tr>
@@ -39,8 +56,23 @@ This is where SupportDocs gets its data!
   <td>
      
   ```Swift
-  Swift Code 2
-  sdf
+  class UIKitExampleController_MinimalCode: UIViewController {
+    
+      /**
+       Connect this inside the storyboard.
+     
+       This is just for demo purposes, so it's not connected yet.
+       */
+      @IBAction func presentButtonPressed(_ sender: Any) {
+        
+          // MARK: - UIKit way to make `SupportOptions`
+          var options = SupportOptions()
+          options.urls.dataSource = URL(string: "https://raw.githubusercontent.com/aheze/SupportDocsSwiftUI/main/SupportDocsSwiftUI/docData.json")!
+        
+          let supportDocsViewController = SupportDocsViewController(options: options)
+          self.present(supportDocsViewController, animated: true, completion: nil)
+      }
+  }
   ```
   </td>
   </tr>
