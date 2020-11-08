@@ -78,21 +78,21 @@ This is where SupportDocs gets its data!
 </table>
 
 ## Table of Contents
-- [How to eat grilled cheese](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatGrilledCheese)[ 'edit'](support_document['url'])
-- [How to make spaghetti](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToMakeSpaghetti)[ 'edit'](support_document['url'])
-- [How to eat burritos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatBurritos)[ 'edit'](support_document['url'])
-- [How to eat tacos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatTacos)[ 'edit'](support_document['url'])
-- [How to eat nachos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatNachos)[ 'edit'](support_document['url'])
-- [How to Prepare Ramen](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToPrepareRamen)[ 'edit'](support_document['url'])
-- [How to Cook Pizza](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToCookPizza)[ 'edit'](support_document['url'])
-- [Plum smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Plum)[ 'edit'](support_document['url'])
-- [Peach smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Peach)[ 'edit'](support_document['url'])
-- [Blueberry Smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Blueberry)[ 'edit'](support_document['url'])
-- [Red berry smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/RedBerries)[ 'edit'](support_document['url'])
-- [Apple smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Apple)[ 'edit'](support_document['url'])
-- [Buy cream boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyCreamBoba)[ 'edit'](support_document['url'])
-- [Buy blue boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyBlueBoba)[ 'edit'](support_document['url'])
-- [Buy orange boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyOrangeBoba)[ 'edit'](support_document['url'])
+- [How to eat grilled cheese](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatGrilledCheese)- [How to eat grilled cheese](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatGrilledCheese)
+- [How to make spaghetti](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToMakeSpaghetti)- [How to make spaghetti](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToMakeSpaghetti)
+- [How to eat burritos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatBurritos)- [How to eat burritos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatBurritos)
+- [How to eat tacos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatTacos)- [How to eat tacos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatTacos)
+- [How to eat nachos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatNachos)- [How to eat nachos](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToEatNachos)
+- [How to Prepare Ramen](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToPrepareRamen)- [How to Prepare Ramen](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToPrepareRamen)
+- [How to Cook Pizza](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToCookPizza)- [How to Cook Pizza](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-FastFood/HowToCookPizza)
+- [Plum smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Plum)- [Plum smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Plum)
+- [Peach smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Peach)- [Peach smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Peach)
+- [Blueberry Smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Blueberry)- [Blueberry Smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Blueberry)
+- [Red berry smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/RedBerries)- [Red berry smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/RedBerries)
+- [Apple smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Apple)- [Apple smoothie](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Smoothies/Apple)
+- [Buy cream boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyCreamBoba)- [Buy cream boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyCreamBoba)
+- [Buy blue boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyBlueBoba)- [Buy blue boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyBlueBoba)
+- [Buy orange boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyOrangeBoba)- [Buy orange boba](https://aheze.github.io/SupportDocsTestingTemplate3/Sample-Boba/BuyOrangeBoba)
 
 
 ## Notes
