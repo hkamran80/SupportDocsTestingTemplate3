@@ -65,7 +65,6 @@ This is where SupportDocs gets its data!
        */
       @IBAction func presentButtonPressed(_ sender: Any) {
         
-          // MARK: - UIKit way to make `SupportOptions`
           var options = SupportOptions()
           options.urls.dataSource = URL(string: "https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json")!
         
