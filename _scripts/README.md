@@ -28,7 +28,7 @@ This is where SupportDocs gets its data!
     
       let options = SupportOptions(
           urls: .init(
-              dataSource: URL(string: "https://raw.githubusercontent.com/hkamran80/SupportDocs/DataSource/_data/data.json")!
+              dataSource: URL(string: "{{ datasource_url }}")!
           )
       )
     
@@ -67,7 +67,7 @@ This is where SupportDocs gets its data!
         
           // MARK: - UIKit way to make `SupportOptions`
           var options = SupportOptions()
-          options.urls.dataSource = URL(string: "https://raw.githubusercontent.com/aheze/SupportDocsSwiftUI/main/SupportDocsSwiftUI/docData.json")!
+          options.urls.dataSource = URL(string: "{{ datasource_url }}")!
         
           let supportDocsViewController = SupportDocsViewController(options: options)
           self.present(supportDocsViewController, animated: true, completion: nil)
