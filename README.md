@@ -2,64 +2,39 @@
 This is where SupportDocs gets its data!
 
 <table>
-    <tr>
-        <td colspan="2">
-            <strong>Your data source JSON url is:</strong> <a id="datasource_url" href="https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json</a>
-        </td>
-    </tr>
-<tr>
+  <tr>
     <td>
-        How to use (SwiftUI)
+      <strong>Your data source JSON url is:</strong>
     </td>
-<td>
-
-  ```Swift
-  struct ContentView: View {
-      @State var supportDocsPresented = false
-      let options: SupportOptions = SupportOptions(
-          urls: .init(
-            dataSource: URL(string: "https://raw.githubusercontent.com/hkamran80/SupportDocs/DataSource/_data/data.json")!,
-            error404: URL(string: "https://google.com")!
-          )
-      )
-      var body: some View {
-          Button("Present") { self.supportDocsPresented = true }
-          .sheet(isPresented: $supportDocsPresented) {
-            
-              /// pass it in here!
-              SupportDocsView(options: options, isPresented: $supportDocsPresented)
-          }
-      }
-  }
-  ```
-</td>
-<tr>
     <td>
-        How to use (UIKit)
+      <a id="datasource_url" href="https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json">https://raw.githubusercontent.com/aheze/SupportDocsTestingTemplate3/DataSource/_data/supportdocs_datasource.json</a>
     </td>
-<td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      How to use (SwiftUI):
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
 
- ```Swift
-  struct ContentView: View {
-      @State var supportDocsPresented = false
-      let options: SupportOptions = SupportOptions(
-          urls: .init(
-            dataSource: URL(string: "https://raw.githubusercontent.com/hkamran80/SupportDocs/DataSource/_data/data.json")!,
-            error404: URL(string: "https://google.com")!
-          )
-      )
-      var body: some View {
-          Button("Present") { self.supportDocsPresented = true }
-          .sheet(isPresented: $supportDocsPresented) {
-            
-              /// pass it in here!
-              SupportDocsView(options: options, isPresented: $supportDocsPresented)
-          }
-      }
-  }
-  ```
-</td>
-</tr>
+      ```Swift
+      Swift Code
+      ```
+    </td>
+  <tr>
+    <td colspan="2">
+      How to use (UIKit Method 1):
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+
+    ```Swift
+    Swift Code 2
+    ```
+    </td>
+  </tr>
 </table>
 
 ## Table of Contents
