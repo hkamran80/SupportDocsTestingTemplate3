@@ -81,7 +81,8 @@ if __name__ == "__main__":
 
     toc = ""
     for support_document in data:
-        toc += f"- [{support_document['title']}]({support_document['url']})" + f" ([edit](" + f"{support_document['url']}".replace("//", "//github.com/").replace(".github.io/", "/").replace("{GITHUB_REPOSITORY}/", "{GITHUB_REPOSITORY}/blob/{GITHUB_BRANCH}/") + f"))\n"
+        edit_link = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/edit/{GITHUB_BRANCH}/{READ_README_FILE_PATH}"
+        toc += f"- [{support_document['title']}]({support_document['url']})" + f" ([edit]({edit_link})"
         
     datasource_url = f"https://github.com/{FULL_GITHUB_REPOSITORY}".replace("//github.com/", "//raw.githubusercontent.com/").replace("/blob/", "/") + f"/{GITHUB_BRANCH}/{DATA_JSON_FILE_PATH}"
     rendered_readme = readme.render(datasource_url=datasource_url, table_of_contents=toc)
