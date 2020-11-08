@@ -13,16 +13,15 @@ This is where SupportDocs gets its data!
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td>
       How to use (SwiftUI)
     </td>
   </tr>
   <tr>
-  <td colspan="2">
+  <td>
      
   ```Swift
   Swift Code
@@ -30,13 +29,14 @@ This is where SupportDocs gets its data!
   ```
   </td>
   </tr>
+  
   <tr>
-    <td colspan="2">
+    <td>
       How to use (UIKit)
     </td>
   </tr>
   <tr>
-  <td colspan="2">
+  <td>
      
   ```Swift
   Swift Code 2
