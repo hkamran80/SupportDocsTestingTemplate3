@@ -4,7 +4,7 @@ This is where SupportDocs gets its data!
 <table>
   <tr>
     <td>
-      <strong>Your data source JSON url is:</strong>
+      <strong>Your data source JSON url is:</strong> <a id="datasource_url" href="{{ datasource_url }}">{{ datasource_url }}</a>
     </td>
     <td>
       <a id="datasource_url" href="{{ datasource_url }}">{{ datasource_url }}</a>
@@ -12,28 +12,31 @@ This is where SupportDocs gets its data!
   </tr>
   <tr>
     <td colspan="2">
-      How to use (SwiftUI):
+      How to use (SwiftUI)
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-
-      ```Swift
-      Swift Code
-      ```
-    </td>
-  <tr>
-    <td colspan="2">
-      How to use (UIKit Method 1):
-    </td>
+  <td colspan="2">
+     
+  ```Swift
+  Swift Code
+  sdf
+  ```
+  </td>
   </tr>
   <tr>
     <td colspan="2">
-
-    ```Swift
-    Swift Code 2
-    ```
+      How to use (UIKit)
     </td>
+  </tr>
+  <tr>
+  <td colspan="2">
+     
+  ```Swift
+  Swift Code 2
+  sdf
+  ```
+  </td>
   </tr>
 </table>
 
