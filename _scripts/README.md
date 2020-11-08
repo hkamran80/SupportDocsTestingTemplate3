@@ -4,11 +4,17 @@ This is where SupportDocs gets its data!
 <table>
   <tr>
     <td>
-      <strong>Your data source JSON url is:</strong> <a id="datasource_url" href="{{ datasource_url }}">{{ datasource_url }}</a>
+      <strong>Your data source JSON url is:
     </td>
+  </tr>
+  <tr>
     <td>
       <a id="datasource_url" href="{{ datasource_url }}">{{ datasource_url }}</a>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
   </tr>
   <tr>
     <td colspan="2">
